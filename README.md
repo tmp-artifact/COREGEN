@@ -185,11 +185,3 @@ results/
 ```
 
 
-
-
-
-# COREGEN
-# COREGEN
-# COREGEN
-# COREGEN
-# COREGEN
